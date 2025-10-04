@@ -1,1 +1,1 @@
-# Implementaci-n-de-concurrencia-en-modulos
+# Implementacion-de-concurrencia-en-modulos
